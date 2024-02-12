@@ -16,3 +16,5 @@ Simple Dictionary is a basic web-based application that allows users to look up 
 - **Bootstrap**: CSS framework for styling and layout.
 - **Fetch API**: JavaScript interface for fetching resources asynchronously.
 - **Dictionary API**: Utilizes the Dictionary API to fetch word meanings and pronunciation.
+
+op=>https://dictionary-api-sri2403.netlify.app/
